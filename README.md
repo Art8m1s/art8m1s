@@ -14,7 +14,7 @@
 
 * Связаться со мной можно через
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
-[![Email](https://img.shields.io/badge/-Mail.ru-blue?logo=maildotru)](mailto:a_salomatin@list.ru)
+[![Email](https://img.shields.io/badge/-Mail.ru-blue?logo=maildotru)](a_salomatin@list.ru)
   
 
 
