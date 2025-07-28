@@ -11,10 +11,11 @@
 * 🛠️ Ранее работал в техническом отделе тяжелой промышленности
 * 🗃️ Во время учебы сделаны проекты, с которыми можно ознакомится чуть ниже на странице
 * 📝 Моё <a href="https://drive.google.com/file/d/1ExeRsvpOniY_hSpgAH3iBBHnNRiz7Efi/view?usp=drive_link">резюме</a>
+<br>
 
 * Связаться со мной можно через 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
- и так же написать на почту **a_salomatin@list.ru**
+* А так же написать на почту **a_salomatin@list.ru**
 
   
 
@@ -60,6 +61,8 @@
 
 [![GitHub Art8m1s](https://img.shields.io/github/followers/art8m1s?label=follow&style=social)](https://github.com/Art8m1s)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
+[![Telegram](https://img.shields.io/badge/3D_Printing_Channel-orange?logo=telegram&logoColor=white)](https://t.me/Sav3dprint)
+
 
 </div>
 
