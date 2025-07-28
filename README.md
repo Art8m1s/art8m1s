@@ -37,3 +37,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://cygwin.com/" target="_blank" rel="noreferrer"><img src="https://avatars.mds.yandex.net/get-entity_search/60958/122531574/S600xU" width="36" height="36" alt="cygwin" /></a>
+
+### Проекты во время обучения
+* 🗺️ <a href= "https://github.com/Art8m1s/QA-YA-Rout-Web">Тестирования Яндекс Маршуртов. Веб-приложение
