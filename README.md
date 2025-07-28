@@ -5,7 +5,8 @@
 
 ### Немного фактов
 
-* 👨🏻‍🎓 Закончил курс <a href="https://drive.google.com/file/d/1kQ8aMRxNYslmi3LKncSCgYPYvnyKrmX-/view?usp=drive_link"> Инженер по тестированию
+* 👨🏻‍🎓 Закончил курс <a href="https://drive.google.com/file/d/1OahnS_mGhcL0F8MnvMwXL34m1Qfy5ILw/view?usp=drive_link"> Инженер по тестированию
+* 📱 Прошел интенисв <a href="https://drive.google.com/file/d/1vGz-1SOxMMPpm-WohUynQYqUfmlioRHl/view?usp=drive_link"> по мобильному тестированию 
 * 🔎 На данный момент я ищу работу Инженера по тестированию (ручное)
 * 🛠️ Ранее работал в техническом отделе тяжелой промышленности
 * 🗃️ Во время учебы сделаны проекты, с которыми можно ознакомится чуть ниже на странице
