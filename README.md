@@ -10,7 +10,13 @@
 * 🔎 На данный момент я ищу работу Инженера по тестированию (ручное)
 * 🛠️ Ранее работал в техническом отделе тяжелой промышленности
 * 🗃️ Во время учебы сделаны проекты, с которыми можно ознакомится чуть ниже на странице
-* 📝 Моё <a href="https://drive.google.com/file/d/1ExeRsvpOniY_hSpgAH3iBBHnNRiz7Efi/view?usp=drive_link">резюме</a> 
+* 📝 Моё <a href="https://drive.google.com/file/d/1ExeRsvpOniY_hSpgAH3iBBHnNRiz7Efi/view?usp=drive_link">резюме</a>
+
+* Связаться со мной можно через
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
+[![Email](https://img.shields.io/badge/-Mail.ru-blue?logo=maildotru)](mailto:a_salomatin@list.ru)
+  
+
 
 
 ### Инструменты для тестирования
