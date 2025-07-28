@@ -53,4 +53,13 @@
 * 🛍  <a href= "https://github.com/Art8m1s/QA-YA-Prilavok_api">Тестирования Янедкс Прилавок. Тестирование API
 * 🛴  <a href= "https://github.com/Art8m1s/QA-YA-DiplomProject">Тестирования Яндекс Самокат. Дипломный проект. Тестирование Веб, API, APK Android.
 
-  [![GitHub Art8m1s](https://img.shields.io/github/followers/art8m1s?label=follow&style=social)](https://github.com/Art8m1s)
+ <br>
+ <br>
+ 
+<div align="center">
+
+[![GitHub Art8m1s](https://img.shields.io/github/followers/art8m1s?label=follow&style=social)](https://github.com/Art8m1s)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
+
+</div>
+
