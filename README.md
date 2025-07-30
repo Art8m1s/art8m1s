@@ -10,11 +10,12 @@
 * 🔎 На данный момент ищу работу Инженера по тестированию (ручное) \ QA Тестировщик Manual
 * 🛠️ Работал в техническом отделе тяжелой промышленности
 * 🗃️ За время обучения сделаны проекты, с которыми можно ознакомится чуть ниже на странице
-* 📝 Моё <a href="https://drive.google.com/file/d/1ExeRsvpOniY_hSpgAH3iBBHnNRiz7Efi/view?usp=drive_link">резюме</a>
+* 📝 Моё <a href="https://drive.google.com/file/d/1zQdUAkqi_K8Jr6dwTwN1KnKpgySccAfi/view?usp=sharing">резюме</a>
 <br>
 
 * Связаться со мной можно через 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
+[![Telegram](https://img.shields.io/badge/Telegram-@Art8m1s-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Art8m1s)
+[![VK](https://img.shields.io/badge/VK-Art8m1s-0077FF?logo=vk&logoColor=white)](https://vk.com/Art8m1s)
 * А также написать на почту **a_salomatin@list.ru**
 
   
