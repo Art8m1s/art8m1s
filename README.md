@@ -7,7 +7,7 @@
 
 * 💠 Закончил курс <a href="https://drive.google.com/file/d/1OahnS_mGhcL0F8MnvMwXL34m1Qfy5ILw/view?usp=drive_link"> Инженер по тестированию
 * 💠 Прошел интенсив <a href="https://drive.google.com/file/d/1vGz-1SOxMMPpm-WohUynQYqUfmlioRHl/view?usp=drive_link"> по мобильному тестированию
-* 💠 Проходил правткику в компании: Truck1 Sp. Z O.O
+* 💠 Проходил практику в компании: Truck1 Sp. Z O.O
 * 💠 Работал в техническом отделе тяжелой промышленности
 * 💠 За время обучения сделаны проекты, с которыми можно ознакомится в моей репозитории
 * 💠 Сейчас являюсь саппорт в Яндекс Крауд
